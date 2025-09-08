@@ -1,0 +1,3 @@
+/home/yak/coding/Vasil-Simulator/build/CMakeFiles/VasilDos.dir
+/home/yak/coding/Vasil-Simulator/build/CMakeFiles/edit_cache.dir
+/home/yak/coding/Vasil-Simulator/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/VasilDos.dir/src/Vasil.cpp.o CMakeFiles/VasilDos.dir/src/VasilDos.cpp.o -o VasilDos 
